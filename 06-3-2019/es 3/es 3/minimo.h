@@ -1,0 +1,1 @@
+extern int minimo(int *vec, int len);
