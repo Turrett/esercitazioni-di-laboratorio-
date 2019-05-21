@@ -1,0 +1,1 @@
+extern int prodotto(int a, int b);
