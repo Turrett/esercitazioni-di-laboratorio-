@@ -1,7 +1,8 @@
 
 #include <stdbool.h>
 #include <stdint.h>
-#include <stdio.h>
+#include <cstdio>
+#include <string>
 
 
 typedef struct {
@@ -17,5 +18,6 @@ typedef struct {
 	int size;
 }torre;
 
+extern bool verifica(cartone*c, torre*cur, int i);
 
 extern void TorreCartoni(int n, cartone *c, int s, torre *cur, torre *best, bool *usati);
