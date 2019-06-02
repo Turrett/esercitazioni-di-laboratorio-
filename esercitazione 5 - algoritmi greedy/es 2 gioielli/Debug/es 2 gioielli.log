@@ -1,0 +1,4 @@
+﻿  gioielli.c
+c:\users\lucat\onedrive\documenti\github\esercitazioni-di-laboratorio-\esercitazione 5 - algoritmi greedy\es 2 gioielli\gioielli.c(33): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\lucat\onedrive\documenti\github\esercitazioni-di-laboratorio-\esercitazione 5 - algoritmi greedy\es 2 gioielli\gioielli.c(65): warning C4244: 'funzione': conversione da 'int' a 'float'. Possibile perdita di dati.
+  es 2 gioielli.vcxproj -> C:\Users\lucat\OneDrive\Documenti\GitHub\esercitazioni-di-laboratorio-\esercitazione 5 - algoritmi greedy\es 2 gioielli\Debug\es 2 gioielli.exe
