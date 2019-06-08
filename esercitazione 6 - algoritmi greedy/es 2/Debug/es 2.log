@@ -1,0 +1,4 @@
+﻿  zaini_continui.c
+c:\users\lucat\onedrive\desktop\uni\mauri\esercitazioni-di-laboratorio-\esercitazione 6 - algoritmi greedy\es 2\zaini_continui.c(48): warning C4244: '+=': conversione da 'double' a 'int'. Possibile perdita di dati.
+c:\users\lucat\onedrive\desktop\uni\mauri\esercitazioni-di-laboratorio-\esercitazione 6 - algoritmi greedy\es 2\zaini_continui.c(63): warning C4244: '+=': conversione da 'double' a 'int'. Possibile perdita di dati.
+  es 2.vcxproj -> C:\Users\lucat\OneDrive\Desktop\uni\Mauri\esercitazioni-di-laboratorio-\esercitazione 6 - algoritmi greedy\es 2\Debug\es 2.exe
