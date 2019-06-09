@@ -7,14 +7,14 @@
 typedef int element;
 
 typedef struct list_element {
-    element value;
-    struct list_element *next;
+	element value;
+	struct list_element *next;
 } item;
 
 typedef item* list;
 
 /** @brief La funzione Emptylist ritorna una lista vuota.
- 
+
 @returns lista vuota
 
 */

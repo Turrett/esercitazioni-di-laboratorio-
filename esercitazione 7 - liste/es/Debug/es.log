@@ -1,0 +1,4 @@
+﻿  liste.c
+c:\users\lucat\onedrive\documenti\github\esercitazioni-di-laboratorio-\esercitazione 7 - liste\es\liste.c(37): warning C4047: 'return': 'list' differisce da 'list (__cdecl *)()' nei livelli di riferimento indiretto
+c:\users\lucat\onedrive\documenti\github\esercitazioni-di-laboratorio-\esercitazione 7 - liste\es\liste.c(46): warning C4047: 'return': 'list' differisce da 'list (__cdecl *)()' nei livelli di riferimento indiretto
+  es.vcxproj -> C:\Users\lucat\OneDrive\Documenti\GitHub\esercitazioni-di-laboratorio-\esercitazione 7 - liste\es\Debug\es.exe
